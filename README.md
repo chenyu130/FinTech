@@ -1,5 +1,7 @@
 # FinTech Cloud Computing
 
+
+## Learning Progress
 ### Week 1 
 
 
