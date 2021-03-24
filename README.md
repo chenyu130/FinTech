@@ -2,8 +2,9 @@
 
 
 ## Learning Progress
-### Week 1 
 
+### Week 1 
+>* 課程說明
 
 ### Week 2 
 >* 228 停課
