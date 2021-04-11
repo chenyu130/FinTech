@@ -20,6 +20,6 @@
 
 ### Week 5 
 >* [IAM & S3](https://drive.google.com/file/d/1zTAF-32yebhsIAqjfyM30cjMKl9lvbf-/view)
->
+>* [Homework 3: Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=AOri6ot06KA)
 
 
