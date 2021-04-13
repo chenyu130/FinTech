@@ -23,3 +23,8 @@
 >* [Homework 3: Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=AOri6ot06KA)
 
 
+### Week 6 
+>* [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
+>* [Homework 4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=z4sLOsQ86x0)
+
+
