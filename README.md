@@ -27,4 +27,11 @@
 >* [API Gateway and AWS Lambda](https://drive.google.com/file/d/1-AsnJmAldi_-gPnxdQcyBifScMmR_IBk/view)
 >* [Homework 4: Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://www.youtube.com/watch?v=z4sLOsQ86x0)
 
+### Week 7 
+>* 學術交流週
+
+### Week 8 
+>* [AWS RDS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)
+'''>* [Homework 3: Build a Website using Amazon S3(Versioning) and AWS Amplify](https://www.youtube.com/watch?v=AOri6ot06KA)
+'''
 
