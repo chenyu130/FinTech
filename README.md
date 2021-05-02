@@ -32,5 +32,5 @@
 
 ### Week 8 
 >* [AWS RDS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)
-
+>* [Homework 5: Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/da2QqscMcuw)
 
