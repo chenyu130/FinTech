@@ -34,3 +34,7 @@
 >* [AWS RDS](https://drive.google.com/file/d/1-RPizv8fmWbJ5dP_zVY4JNuMLPS1ftLM/view)
 >* [Homework 5: Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/da2QqscMcuw)
 
+
+
+## Cathay walker Plus
+>* [第二次進度追蹤](https://drive.google.com/file/d/1PUucLi08RVDh54WlZyHSZv25vtL_hFBS/view?usp=sharing)
