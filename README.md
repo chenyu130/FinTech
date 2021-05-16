@@ -37,6 +37,3 @@
 ### Week 9 
 >* [Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 >* [Homework 6: Create a Docker file and deploy on EC2](https://youtu.be/Kq-McplJFrc)
-
-## Cathay walker Plus
->* [第二次進度追蹤](https://drive.google.com/file/d/1bMn7w9eUTFDo8hkVjINJuONVx3FhV8VD/view?usp=sharing)
